@@ -1,4 +1,4 @@
-# Vxc-Discord-Tools
+# Vxc-Discord-Tools v1.0.0
 
 #### Instructions:
 
