@@ -1,0 +1,8 @@
+requests
+bs4
+os
+discord_webhook
+time
+random
+colorama
+re
